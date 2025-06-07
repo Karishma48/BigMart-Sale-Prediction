@@ -1,7 +1,6 @@
 # BigMart-Sale-Prediction
 Exciting News! Introducing My Latest Project: BigMart Sales Prediction 🚀
 
-Hello LinkedIn Family!
 I’m thrilled to share my latest data Analyst project—BigMart Sales Prediction—where I applied Python to analyze and predict sales trends using an innovative approach! 📊
 
 🔍 Key Highlights of the Project:
